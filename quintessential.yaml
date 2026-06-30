@@ -1,0 +1,9 @@
+Name: MagnusAnimismus
+Version: 1.0.0
+Icon: mod_icon_magnusanim
+Title: Magnus Animismus
+Desc: Adds a fourth grade of Animismus to TrueAn.
+DLL: "MagnusAnimismus.dll"
+Dependencies:
+- Name: TrueAnimismus
+  Version: 1.0.6
